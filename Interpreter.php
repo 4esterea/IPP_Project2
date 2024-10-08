@@ -74,7 +74,4 @@ class Interpreter extends AbstractInterpreter
         }
     }
 
-
-//    function that updates the value of the variable in the instruction to the value of the variable in the frame
-
 }
